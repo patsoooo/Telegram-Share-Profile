@@ -1,8 +1,5 @@
 # Profile Links: one account, several QR codes, each with its own privacy
 
-You know the moment: someone attractive asks for your Telegram, and your profile is full of photos and stories with your
-wife and son.
-
 Profile Links give one account several QR codes, and each one shows a different you. For every code you decide what the
 person who scans it will see: which photo, which username, your phone number, bio, birthday, stories and channel, and
 whether they can call you or send you voice messages.
